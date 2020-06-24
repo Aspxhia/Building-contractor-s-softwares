@@ -1,0 +1,24 @@
+c:\users\win7\documents\visual studio 2015\Projects\Builder's Project\Builder's Project\bin\Debug\Builder's Project.exe.config
+c:\users\win7\documents\visual studio 2015\Projects\Builder's Project\Builder's Project\obj\Debug\Builder's Project.csprojResolveAssemblyReference.cache
+c:\users\win7\documents\visual studio 2015\Projects\Builder's Project\Builder's Project\obj\Debug\Builder_s_Project.adminpanel.resources
+c:\users\win7\documents\visual studio 2015\Projects\Builder's Project\Builder's Project\obj\Debug\Builder_s_Project.Form1.resources
+c:\users\win7\documents\visual studio 2015\Projects\Builder's Project\Builder's Project\obj\Debug\Builder_s_Project.Properties.Resources.resources
+c:\users\win7\documents\visual studio 2015\Projects\Builder's Project\Builder's Project\obj\Debug\Builder's Project.csproj.GenerateResource.Cache
+c:\users\win7\documents\visual studio 2015\Projects\Builder's Project\Builder's Project\bin\Debug\Builder's Project.exe
+c:\users\win7\documents\visual studio 2015\Projects\Builder's Project\Builder's Project\bin\Debug\Builder's Project.pdb
+c:\users\win7\documents\visual studio 2015\Projects\Builder's Project\Builder's Project\bin\Debug\MySql.Data.dll
+c:\users\win7\documents\visual studio 2015\Projects\Builder's Project\Builder's Project\bin\Debug\MySql.Data.xml
+c:\users\win7\documents\visual studio 2015\Projects\Builder's Project\Builder's Project\obj\Debug\Builder's Project.exe
+c:\users\win7\documents\visual studio 2015\Projects\Builder's Project\Builder's Project\obj\Debug\Builder's Project.pdb
+C:\Users\Win7\Documents\Visual Studio 2015\Projects\Builder's Project\Builder's Project\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Win7\Documents\Visual Studio 2015\Projects\Builder's Project\Builder's Project\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Win7\Documents\Visual Studio 2015\Projects\Builder's Project\Builder's Project\obj\Debug\Builder_s_Project.finansalform.resources
+C:\Users\Win7\Documents\Visual Studio 2015\Projects\Builder's Project\Builder's Project\obj\Debug\Builder_s_Project.Yoneticipanel.resources
+C:\Users\Win7\Documents\Visual Studio 2015\Projects\Builder's Project\Builder's Project\obj\Debug\Builder_s_Project.malzemeler.resources
+C:\Users\Win7\documents\visual studio 2015\Projects\Builder's Project\Builder's Project\obj\Debug\Builder_s_Project.Firmalar.resources
+C:\Users\Win7\documents\visual studio 2015\Projects\Builder's Project\Builder's Project\obj\Debug\Builder_s_Project.personel.resources
+C:\Users\Win7\documents\visual studio 2015\Projects\Builder's Project\Builder's Project\obj\Debug\Builder_s_Project.Santiyeler.resources
+C:\Users\Win7\documents\visual studio 2015\Projects\Builder's Project\Builder's Project\obj\Debug\Builder_s_Project.malzemekontrol.resources
+C:\Users\Win7\documents\visual studio 2015\Projects\Builder's Project\Builder's Project\obj\Debug\Builder_s_Project.userpanel.resources
+C:\Users\Win7\documents\visual studio 2015\Projects\Builder's Project\Builder's Project\obj\Debug\Builder_s_Project.kantarfis.resources
+C:\Users\Win7\documents\visual studio 2015\Projects\Builder's Project\Builder's Project\obj\Debug\Builder_s_Project.rapor.resources
